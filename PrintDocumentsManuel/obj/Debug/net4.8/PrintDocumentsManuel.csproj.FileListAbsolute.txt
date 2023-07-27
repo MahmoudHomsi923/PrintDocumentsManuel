@@ -1,0 +1,6 @@
+P:\1_Mitarbeiter\Homsi\C#\PrintDocumentsManuel\PrintDocumentsManuel\obj\Debug\net4.8\PrintDocumentsManuel.csproj.AssemblyReference.cache
+P:\1_Mitarbeiter\Homsi\C#\PrintDocumentsManuel\PrintDocumentsManuel\obj\Debug\net4.8\PrintDocumentsManuel.csproj.SuggestedBindingRedirects.cache
+P:\1_Mitarbeiter\Homsi\C#\PrintDocumentsManuel\PrintDocumentsManuel\obj\Debug\net4.8\PrintDocumentsManuel.GeneratedMSBuildEditorConfig.editorconfig
+P:\1_Mitarbeiter\Homsi\C#\PrintDocumentsManuel\PrintDocumentsManuel\obj\Debug\net4.8\PrintDocumentsManuel.AssemblyInfoInputs.cache
+P:\1_Mitarbeiter\Homsi\C#\PrintDocumentsManuel\PrintDocumentsManuel\obj\Debug\net4.8\PrintDocumentsManuel.AssemblyInfo.cs
+P:\1_Mitarbeiter\Homsi\C#\PrintDocumentsManuel\PrintDocumentsManuel\obj\Debug\net4.8\PrintDocumentsManuel.csproj.CoreCompileInputs.cache
